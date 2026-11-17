@@ -189,6 +189,14 @@ The three constant columns were excluded, while valid zero values and all employ
 
 The prepared dataset is now ready for further exploratory data analysis and subsequent SQL analysis.
 
+### Dataset Before Cleaning
+![Before Cleaning](HR%20Attrition%20-%20Before%20Cleaning.png)
+
+### Dataset After Cleaning
+![After Cleaning](HR%20Attrition%20-%20After%20Cleaning.png)
+
+
+
 ## 8. Next Steps
 
 The next stages of this project will involve:
