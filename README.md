@@ -31,7 +31,6 @@ The objectives of this analysis are to:
 | Tool | Purpose |
 |---|---|
 | Power Query | Data exploration, cleaning and preparation |
-| SQL | Data analysis and querying |
 | Power BI | visualisation and dashboard development |
 | GitHub | Project documentation |
 
@@ -202,8 +201,7 @@ The prepared dataset is now ready for further exploratory data analysis and subs
 The next stages of this project will involve:
 
 1. Exploratory Data Analysis (EDA).
-2. SQL queries to investigate employee attrition patterns.
-3. Power BI data modelling and dashboard development.
-4. Interpretation of findings and business recommendations.
+2. Power BI dashboard development.
+3. Interpretation of findings and business recommendations.
 
 **Note:** The analysis will focus on identifying associations and patterns within the dataset. These relationships will not automatically be interpreted as proof of causation.
