@@ -542,13 +542,33 @@ Overall, the findings highlight overtime, work-life balance, job role, age, job 
 
 *Analytical note: Attrition rates represent the proportion of employees who left within each respective category.*
 
-### 8.15 Next Steps
 
-The next stage of the project will focus on translating the findings into actionable insights and recommendations for improving employee retention.
+## 9. Power BI Dashboard Development
 
-This will include:
+The dashboard development phase brings together the key findings from the exploratory data analysis into an interactive Power BI report.
 
-- Developing a Power BI dashboard to present the key attrition metrics and findings.
-- Identifying priority employee groups that may require targeted retention strategies.
-- Providing data-driven recommendations based on the patterns observed in the analysis.
+### Page 1 – HR Attrition Overview
+
+The first dashboard page provides a high-level view of employee attrition and workforce composition.
+
+It includes:
+
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Active Employees
+- Attrition Rate by Department
+- Attrition Rate by Job Role
+- Attrition Rate by Overtime
+
+The overview page allows users to quickly assess the organisation's workforce and identify departments and job roles with higher employee turnover.
+
+### Dashboard Screenshot
+
+![HR Attrition Overview Dashboard](screenshots/hr-attrition-overview.png)
+
+*Figure 1: HR Attrition Overview dashboard built using Power BI.*
+
+
+
 
