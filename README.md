@@ -565,9 +565,8 @@ The overview page allows users to quickly assess the organisation's workforce an
 
 ### Dashboard Screenshot
 
-![HR Attrition Overview Dashboard](screenshots/hr-attrition-overview.png)
-
-*Figure 1: HR Attrition Overview dashboard built using Power BI.*
+![HR Attrition Overview Dashboard](HR%20ANALYTICS%20EMPLOYEE%20ATTRITION%20OVERVIEW%20DASHBOARD.png).
+* HR Attrition Overview dashboard built using Power BI.*
 
 
 
